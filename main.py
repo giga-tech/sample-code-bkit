@@ -31,7 +31,7 @@ def tokenize_csv(input_csv, output_csv):
 
     # Save the resulting DataFrame to a new CSV file
     df.to_csv(output_csv, index=False)
-    print(f"Tokenized data saved to {output_csv}")
+    print(f"Output data saved to {output_csv}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Process a CSV file with text and apply tokenization, NER, POS, and other transformations.")
