@@ -15,5 +15,5 @@ python main.py input_csv output_csv
 
 ```
 #### Arguments:
-`input_csv:` Path to the input CSV file containing the text column (text).
+`input_csv:` Path to the input CSV file containing the text column (text).<br>
 `output_csv: `Path to the output CSV file where the processed data will be saved.
