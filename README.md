@@ -7,10 +7,10 @@ This project provides a Python script that processes text data from a CSV file. 
 
 ```bash
 pip install pandas bkit[all] 
-
-
+```
 ## **Usage**
+
 ```bash
 python main.py input_csv output_csv
 
-
+```
